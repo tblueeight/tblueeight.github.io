@@ -1,2 +1,0 @@
-央視頻道_0000,#genre#
-FOX 体育新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
