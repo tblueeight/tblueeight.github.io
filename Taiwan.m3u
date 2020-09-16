@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 ,TVBS新聞臺HD
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 ,東森新聞HD
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 ,華視新聞
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 ,民視新聞FQ
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 ,民視新聞FQ
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 ,民視新聞FQ
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 ,臺視新聞HD
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 ,中天新聞HD
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 ,探索頻道
+https://www.fanmingming.cn/hls/discovery.m3u8
 #EXTINF:-1 ,CBSN HD
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
 #EXTINF:-1 ,NBC
@@ -27,8 +45,6 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 http://58.26.3.55/PLTV/88888888/224/3221226229/02.m3u8
 #EXTINF:-1 ,TV1
 http://58.26.3.54/PLTV/88888888/224/3221226228/02.m3u8
-#EXTINF:-1 ,TVBS新聞臺HD
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 ,國家地理
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 ,年代新聞
@@ -47,20 +63,6 @@ http://seb.sason.top/sc/dscjxw_fhd.m3u8
 http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 ,東森洋片HD
 http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-#EXTINF:-1 ,東森新聞HD
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 ,華視新聞
-http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 ,民視新聞fq
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 ,民視新聞fq
-http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1 ,民視新聞fq
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 ,臺視新聞HD
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 ,中天新聞HD
-http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 ,中視HD
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 ,中天綜合HD
@@ -351,5 +353,3 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/268.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,RTM體育
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
-#EXTINF:-1 ,探索頻道
-https://www.fanmingming.cn/hls/discovery.m3u8
