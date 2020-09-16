@@ -23,3 +23,5 @@ http://live5.ocnttv.com:8080/ZZ_hbo/ZZ_hbo.m3u8
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然科学",Discovery
 https://www.fanmingming.cn/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然科学",Discovery
+http://122.155.180.8:5021/live/457
