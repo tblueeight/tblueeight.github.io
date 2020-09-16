@@ -41,6 +41,47 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",MTV频道
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
+#EXTM3U
+#EXTINF:-1 tvg-id="7133" tvg-name="民視第一臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="綜藝娛樂",民視第一
+http://520574.xyz/dl/gt.php?id=fmtv
+#EXTINF:-1 tvg-id="7134" tvg-name="民視臺灣臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="綜藝娛樂",民視臺灣
+http://520574.xyz/dl/gt.php?id=fttv
+#EXTINF:-1 tvg-id="7135" tvg-name="民視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民視.png" group-title="綜藝娛樂",民視
+http://520574.xyz/dl/gt.php?id=ftv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",華視CTS HD
+http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 tvg-id="6028" tvg-name="中視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中視.png" group-title="綜藝娛樂",中視HD
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="綜藝娛樂",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",TV2
+http://58.26.3.55/PLTV/88888888/224/3221226229/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",TV1
+http://58.26.3.54/PLTV/88888888/224/3221226228/02.m3u8
+
+#EXTINF:-1 tvg-id="6179" tvg-name="博斯魅力網" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="綜藝娛樂",博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-id="6179" tvg-name="博斯魅力網" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="綜藝娛樂",博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",TCL旅遊
+http://153.99.180.70:5021/live/103/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",民視旅遊
+http://520574.xyz/dl/gt.php?id=ftvtravel
+#EXTINF:-1 tvg-id="6172" tvg-name="亞洲旅遊臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="綜藝娛樂",亞洲旅遊
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",5m Quick Crafts
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",5m Kitchen Hacks
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",5m Life Hacks
+https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",MTV音樂
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",MTV音樂
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",亞洲音樂
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育賽事",奥林匹克FHD
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="體育賽事",奥林匹克HD
@@ -121,19 +162,25 @@ http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳综合",亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新唐人",新唐人美西台
+#EXTINF:-1 tvg-id="6142" tvg-name="大愛二臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="唐人大愛",大愛二臺
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="6027" tvg-name="大愛一臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="唐人大愛",大愛電視臺
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="6027" tvg-name="大愛一臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="唐人大愛",大愛海外臺
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="唐人大愛",新唐人美西台
 http://live.ntdimg.com/uwlive520/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新唐人",新唐人亚太台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="唐人大愛人",新唐人亚太台
 https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新唐人",新唐人加西台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="唐人大愛",新唐人加西台
 https://live.ntdimg.com/cwlive220/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新唐人",新唐人美东台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="唐人大愛",新唐人美东台
 https://live.ntdimg.com/live400/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新唐人",新唐人加东台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="唐人大愛",新唐人加东台
 https://live.ntdimg.com/mllive860/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新唐人",新唐人旧金山台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="唐人大愛",新唐人旧金山台
 https://live.ntdimg.com/sflive990/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新唐人",新唐人美西台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="唐人大愛",新唐人美西台
 https://live.ntdimg.com/uwlive990/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新唐人",新唐人中国台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="唐人大愛",新唐人中国台
 https://live2.ntdimg.com/cnlive/playlist.m3u8
