@@ -38,43 +38,41 @@ http://520574.xyz/dl/gt.php?id=ftvvariety
 #EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="綜藝娛樂",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",CBSN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",US_CBSN(USEN)
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",NBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",NBC(USEN)
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",NBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",NBC(USEN)
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="外文頻道",Bloomberg (EN)
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="外文頻道",Bloomberg(USEN)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="外文頻道",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=false
-#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="外文頻道",CHANNEL NEWS ASIA HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="外文頻道",Bloomberg TV
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="外文頻道",NHK-World
-http://125.227.210.37:8931/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",YTN
-http://125.227.210.37:8932/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="外文頻道",Arirang TV
-http://125.227.210.37:8933/VideoInput/play.ts
-#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="外文頻道",DW德國之聲
-http://125.227.210.37:8934/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="外文頻道",Channel NewsAsia
-http://125.227.210.37:8936/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",NHK BS1
-http://125.227.210.37:8939/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",NHK BS Premium
-http://125.227.210.37:8940/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="外文頻道",彭博財經(美)Bloomberg TV
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="外文頻道",Bloomberg(USEN)
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",日本全天新聞
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",NHK英語新聞
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="外文頻道",日本NHK WORLD
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="外文頻道",Bloomberg(USEN)
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="外文頻道",SkyNews(ENEN)
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=false
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="外文頻道",CannelNewsAsia(SINEN)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="外文頻道",CannelNewsAsia(SINEN)
+http://125.227.210.37:8936/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",YTN(Ko)
+http://125.227.210.37:8932/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="外文頻道",Arirang TV(KoEN)
+http://125.227.210.37:8933/VideoInput/play.ts
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="外文頻道",DW德國之聲(Ge)
+http://125.227.210.37:8934/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",NHK BS1(JP)
+http://125.227.210.37:8939/VideoInput/play.ts
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="外文頻道",NHK-World(JP)
+http://125.227.210.37:8931/VideoInput/play.ts
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="外文頻道",NHK-World(JP)
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",NHK華語
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",日本全天新聞(JP)
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",NHK英語新聞(JPEN)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",NHK華語(JPCH)
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 
 
