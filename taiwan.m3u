@@ -1,33 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港澳台",中天新闻
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣新聞",中天新聞
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",三立LIVE新闻HD
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞臺" tvg-logo="三立新聞臺" group-title="台灣新聞",三立Live新聞HD
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="港澳台",三立iNews新闻
+#EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台灣新聞",三立iNews新聞
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻
+#EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台灣新聞",東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻HD
+#EXTINF:-1 tvg-id="6069" tvg-name="東森新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣新聞",東森新聞HD
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华视新闻
+#EXTINF:-1 tvg-id="6030" tvg-name="華視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣新聞",華視
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻HD
+#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣新聞",民視新聞HD
 http://520574.xyz/dl/gt.php?id=ftvnews
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻HD
+#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣新聞",民視新聞HD
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻HD
+#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣新聞",民視新聞HD
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻FHD
+#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣新聞",民視新聞FHD
 http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻HD
+#EXTINF:-1 tvg-id="6143" tvg-name="臺視新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/臺視新聞.png" group-title="台灣新聞",臺視新聞HD
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港澳台",中天新闻HD
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣新聞",中天新聞HD
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻SD
-http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻SD
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻SD
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png" group-title="台灣新聞",TVBS新聞SD
 http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS 新闻SD
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png" group-title="台灣新聞",TVBS 新聞SD
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
