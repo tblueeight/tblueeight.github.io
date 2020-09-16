@@ -11,12 +11,6 @@ http://seb.sason.top/sc/dscjxw_fhd.m3u8
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6030" tvg-name="華視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣新聞",華視
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣新聞",民視新聞HD
-http://520574.xyz/dl/gt.php?id=ftvnews
-#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣新聞",民視新聞HD
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣新聞",民視新聞HD
-http://210.61.56.23/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民視新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣新聞",民視新聞FHD
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="臺視新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/臺視新聞.png" group-title="台灣新聞",臺視新聞HD
@@ -25,5 +19,3 @@ http://seb.sason.top/sc/tsxw_fhd.m3u8
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png" group-title="台灣新聞",TVBS新聞SD
 http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png" group-title="台灣新聞",TVBS 新聞SD
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
