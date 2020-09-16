@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣新聞",中天新聞
-http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新聞臺" tvg-logo="三立新聞臺" group-title="台灣新聞",三立Live新聞HD
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台灣新聞",三立iNews新聞
@@ -15,8 +15,6 @@ http://seb.sason.top/sc/hsxw_fhd.m3u8
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="臺視新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/臺視新聞.png" group-title="台灣新聞",臺視新聞HD
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6070" tvg-name="中天新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣新聞",中天新聞HD
-http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png" group-title="台灣新聞",TVBS新聞SD
 http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="國家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="自然記錄",國家地理
