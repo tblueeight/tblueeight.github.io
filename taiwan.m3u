@@ -26,8 +26,6 @@ https://www.fanmingming.cn/hls/discovery.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",中視綜合
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 tvg-id="6084" tvg-name="東森洋片臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="電影頻道",東森洋片HD
-http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-id="6054" tvg-name="中天綜合臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="綜藝娛樂",中天綜合HD
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",環球電視
@@ -40,8 +38,6 @@ http://192.154.103.74:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="電影頻道",FOX動作電影
 http://live5.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 tvg-id="6084" tvg-name="東森洋片臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="電影頻道",東森洋片
-http://live5.ocnttv.com:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-id="6650" tvg-name="歐美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="電影頻道",歐美影院
 http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",亞洲影院
