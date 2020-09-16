@@ -25,6 +25,7 @@ http://live5.ocnttv.com:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然科学",Discovery
 https://www.fanmingming.cn/hls/discovery.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",MTV音樂
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",MTV音樂
