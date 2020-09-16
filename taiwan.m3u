@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 ,中天新闻
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港澳台",#EXTINF-1 中天新闻
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 ,三立LIVE新闻HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 三立LIVE新闻HD
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 ,三立iNews新闻
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="港澳台",#EXTINF-1 三立iNews新闻
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 ,东森财经新闻
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",#EXTINF-1 东森财经新闻
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 ,东森新闻HD
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",#EXTINF-1 东森新闻HD
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 ,华视新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1 华视新闻
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 ,民视新闻fq
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",#EXTINF-1 民视新闻fq
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 ,民视新闻fq
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",#EXTINF-1 民视新闻fq
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1 ,民视新闻fq
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",#EXTINF-1 民视新闻fq
 http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 ,台视新闻HD
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",#EXTINF-1 台视新闻HD
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 ,中天新闻HD
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="港澳台",#EXTINF-1 中天新闻HD
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 ,年代新闻
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="港澳台",#EXTINF-1 年代新闻
 http://live5.ocnttv.com:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-#EXTINF:-1 ,东森新闻
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",#EXTINF-1 东森新闻
 http://live5.ocnttv.com:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 ,东森新闻2
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",#EXTINF-1 东森新闻2
 http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 ,民视新闻
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",#EXTINF-1 民视新闻
 http://520574.xyz/dl/gt.php?id=ftvnews
-#EXTINF:-1 ,三立新闻
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",#EXTINF-1 三立新闻
 http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
-#EXTINF:-1 ,三立新闻
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",#EXTINF-1 三立新闻
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 ,TVBS新闻
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",#EXTINF-1 TVBS新闻
 http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
-#EXTINF:-1 ,TVBS 新闻频道
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",#EXTINF-1 TVBS 新闻频道
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:-1 ,亚洲新闻
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="港澳台",#EXTINF-1 亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 ,亚洲新闻
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="港澳台",#EXTINF-1 亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
