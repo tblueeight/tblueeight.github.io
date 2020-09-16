@@ -23,35 +23,3 @@ http://live5.ocnttv.com:8080/ZZ_hbo/ZZ_hbo.m3u8
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然記錄",探索频道
 https://www.fanmingming.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="6240" tvg-name="探索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="自然記錄",求索科学
-http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="探索記錄頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然記錄",求索一
-http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="探索記錄頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然記錄",求索二
-http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="探索記錄頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然記錄",求索三
-http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="探索記錄頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然記錄",求索四
-http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 ,国家地理悠人
-http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.m3u8
-#EXTINF:-1 ,国家地理野生
-http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.m3u8
-#EXTINF:-1 ,国家地理频道(台湾)
-http://59.125.101.122:8080/live/ngcxxx0714.m3u8
-#EXTINF:-1 ,国家地理频道
-http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.m3u8 
-#EXTINF:-1 ,HISTORY历史频道
-http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.m3u8
-#EXTINF:-1 ,HISTORY历史频道2
-http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.m3u8
-#EXTINF:-1 ,EYE TV旅游台
-http://cloud-play.hhalloy.com/live/6d6535e5e44f88df204129354e77b2a7.m3u8
-#EXTINF:-1 ,Travel Channel
-http://cloud-play.hhalloy.com/live/2f1e104da16f66b93ad4d873326b19eb.m3u8
-#EXTINF:-1 ,Discovery Asia
-http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.m3u8 
-#EXTINF:-1 ,Discovery
-http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.m3u8
-#EXTINF:-1 ,Discovery科学
-http://cloud-play.hhalloy.com/live/f82bcb85f1a67e5b4754f7be0661dc72.m3u8
