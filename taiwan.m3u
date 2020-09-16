@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF-1 ,TVBS新聞臺HD
+#EXTINF-1 ,TVBS新闻台HD
 httpseb.sason.topsctvbsxw_fhd.m3u8
-#EXTINF-1 ,年代新聞
+#EXTINF-1 ,年代新闻
 http104.250.154.428080ZZ_niandaixinwenZZ_niandianxinwen.m3u8
-#EXTINF-1 ,中天新聞
+#EXTINF-1 ,中天新闻
 http104.250.154.428080ZZ_zhongtiannewsZZ_zhongtiannews.m3u8
-#EXTINF-1 ,三立LIVE新聞HD
+#EXTINF-1 ,三立LIVE新闻HD
 httpseb.sason.topscsllive_fhd.m3u8
-#EXTINF-1 ,三立iNews新聞
+#EXTINF-1 ,三立iNews新闻
 httpseb.sason.topscslinews_fhd.m3u8
-#EXTINF-1 ,東森財經新聞
+#EXTINF-1 ,东森财经新闻
 httpseb.sason.topscdscjxw_fhd.m3u8
-#EXTINF-1 ,東森新聞HD
+#EXTINF-1 ,东森新闻HD
 httpseb.sason.topscdsxw_fhd.m3u8
-#EXTINF-1 ,華視新聞
+#EXTINF-1 ,华视新闻
 httpseb.sason.topschsxw_fhd.m3u8
-#EXTINF-1 ,民視新聞fq
+#EXTINF-1 ,民视新闻fq
 http6.mms.vlog.xuite.nethlsftvtvindex.m3u8
-#EXTINF-1 ,民視新聞fq
+#EXTINF-1 ,民视新闻fq
 http210.61.56.23hlsftvtvindex.m3u8
-#EXTINF-1 ,民視新聞fq
+#EXTINF-1 ,民视新闻fq
 httpseb.sason.topscmsxw_fhd.m3u8
-#EXTINF-1 ,臺視新聞HD
+#EXTINF-1 ,台视新闻HD
 httpseb.sason.topsctsxw_fhd.m3u8
-#EXTINF-1 ,中天新聞HD
+#EXTINF-1 ,中天新闻HD
 httpseb.sason.topscztxw_fhd.m3u8
-#EXTINF-1 ,年代新聞
+#EXTINF-1 ,年代新闻
 httplive5.ocnttv.com8080ZZ_niandaixinwenZZ_niandianxinwen.m3u8
-#EXTINF-1 ,東森新聞
+#EXTINF-1 ,东森新闻
 httplive5.ocnttv.com8080ZZ_dongsenxinwenZZ_dongsenxinwen.m3u8
-#EXTINF-1 ,東森新聞2
+#EXTINF-1 ,东森新闻2
 http104.250.154.428080ZZ_dongsenxinwenZZ_dongsenxinwen.m3u8
-#EXTINF-1 ,三立新聞
+#EXTINF-1 ,三立新闻
 http60.199.188.65HLSWG_ETTV-N01.m3u8
-#EXTINF-1 ,三立新聞
+#EXTINF-1 ,三立新闻
 http60.199.188.65HLSWG_ETTV-N02.m3u8
-#EXTINF-1 ,TVBS新聞
+#EXTINF-1 ,TVBS新闻
 http60.199.188.65HLSWG_TVBS-N01.m3u8
-#EXTINF-1 ,TVBS 新聞頻道
+#EXTINF-1 ,TVBS 新闻频道
 http60.199.188.65HLSWG_TVBS-N02.m3u8
-#EXTINF-1 ,亞洲新聞
+#EXTINF-1 ,亚洲新闻
 httpd2e1asnsl7br7b.cloudfront.net7782e205e72f43aeb4a48ec97f66ebbeindex_4.m3u8
-#EXTINF-1 ,亞洲新聞
+#EXTINF-1 ,亚洲新闻
 httpsd2e1asnsl7br7b.cloudfront.net7782e205e72f43aeb4a48ec97f66ebbeindex_3.m3u8
