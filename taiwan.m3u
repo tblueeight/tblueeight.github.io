@@ -33,6 +33,11 @@ http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="探索記錄頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然記錄",求索四
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-password="0000" tvg-logo="https://app.streamingfast.net/uploads/channel/45_file.jpg" tvg-country="TW" tvg-url="" group-title="Religious",GOOD TV CH45 卡通
-https://live.streamingfast.net/osmflivech45.m3u8#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://app.streamingfast.net/uploads/channel/45_file.jpg" tvg-country="TW" tvg-url="" group-title="Religious",GOOD TV CH45 卡通
-https://live.streamingfast.net/osmflivech45.m3u8
+#EXTINF:-1 ,国家地理悠人
+http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.m3u8
+#EXTINF:-1 ,国家地理野生
+http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.m3u8
+#EXTINF:-1 ,国家地理频道(台湾)
+http://59.125.101.122:8080/live/ngcxxx0714.m3u8
+#EXTINF:-1 ,国家地理频道
+http://cloud-play.hhalloy.com/live/1b4017a457de80eec599895ec807e124.m3u8 
