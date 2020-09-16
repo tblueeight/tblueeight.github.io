@@ -33,3 +33,5 @@ http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="探索記錄頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="自然記錄",求索四
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="港澳台",MOMO
+http://210.201.54.102/live2/tcch04/playlist.m3u8
