@@ -1,15 +1,4 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",ELTA影剧
-p2p://myeytv.com:6003/56405ebe000215023ba65959580c3ec8.ts&link=wvw.f0rcetech.c0m
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",ELTA影剧HD
-p2p://106.186.121.94:8258/56077d8e000712af582d0efd2f3d1aa3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",ELTA影剧HD
-p2p://61.221.233.81:9000/5606a2d100021fb800fc0f21768a7682
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",ELTA影剧HD
-p2p://61.221.233.81:9000/5606a2d100021fb800fc0f21768a7682&link=HGFDSAihgfd
-
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台灣新聞",TVBS新聞臺HD
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新聞臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台灣新聞",年代新聞
@@ -44,12 +33,6 @@ http://125.210.152.18:9090/live/QSDW_1200.m3u8
 #EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="自然科学",求索生活
 http://125.210.152.18:9090/live/QSSH_1200.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",東森戲劇
-http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=http://218.32.87.201:5021/live/425
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",東森洋片
-http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=http://218.32.87.201:5021/live/343
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",三立台湾HD
 http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",三立都会HD
