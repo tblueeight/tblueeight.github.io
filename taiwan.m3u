@@ -33,6 +33,22 @@ http://125.210.152.18:9090/live/QSDW_1200.m3u8
 #EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="自然科学",求索生活
 http://125.210.152.18:9090/live/QSSH_1200.m3u8
 
+
+
+#EXTINF:-1 tvg-id="7187" tvg-name="靖天國際" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天國際.png" group-title="綜藝娛樂",靖天國際
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 tvg-id="7159" tvg-name="靖天戲劇臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天戲劇.png" group-title="綜藝娛樂",靖天戲劇
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" group-title="綜藝娛樂",靖天日本
+http://61.58.60.230:9319/live/243.m3u8
+#EXTINF:-1 tvg-id="6150" tvg-name="靖天歡樂臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天歡樂.png" group-title="綜藝娛樂",靖天歡樂
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 tvg-id="6151" tvg-name="靖天育樂臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天育樂.png" group-title="綜藝娛樂",靖天育樂
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 tvg-id="6099" tvg-name="靖天資訊臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天資訊.png" group-title="綜藝娛樂",靖天資訊
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1 tvg-id="7164" tvg-name="靖天電影臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天電影.png" group-title="綜藝娛樂",靖天電影
+http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",三立台湾HD
 http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",三立都会HD
@@ -388,6 +404,10 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视蓝光",贵州卫视
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
+#EXTINF:-1 tvg-id="6191" tvg-name="靖洋卡通臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋卡通.png" group-title="兒童頻道",靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="兒童頻道",靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="兒童頻道",云南少儿
 http://edge2.yntv.cn/channels/yntv/ynse/flv:sd/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="兒童頻道",重庆少儿
