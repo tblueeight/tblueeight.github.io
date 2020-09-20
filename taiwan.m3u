@@ -267,7 +267,46 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="外文頻道",NHK華語(JPCH)
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="142" tvg-name="鳳凰資訊" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳綜合",鳳凰資訊HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳綜合",鳳凰衛視資訊HD
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="鳳凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳綜合",鳳凰衛視HD
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳綜合",鳳凰中文
+http://223.82.250.72/live/fhchinese/1.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳綜合",鳳凰中文HD
+http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="鳳凰資訊" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳綜合",鳳凰資訊HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="鳳凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳綜合",鳳凰香港
+http://223.82.250.72/live/fhhongkong/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳綜合",香港31臺HD
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠臺.png" group-title="港澳綜合",TVB翡翠臺
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠臺.png" group-title="港澳綜合",明珠臺
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
+#EXTINF:-1 tvg-id="7118" tvg-name="香港開電視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳綜合",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳綜合",星空衛視
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=23
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳綜合",香港衛視HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳綜合",耀才財經
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳綜合",耀才財經臺
+http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳綜合",香港耀才財經HD
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港開電視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳綜合",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港開電視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳綜合",香港開電視臺HD(備用1)
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳綜合",港臺電視RTHK31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳綜合",港臺電視RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳综合",TVB明珠
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳综合",香港衛視
