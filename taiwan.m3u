@@ -33,16 +33,16 @@ http://125.210.152.18:9090/live/QSDW_1200.m3u8
 #EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="自然科学",求索生活
 http://125.210.152.18:9090/live/QSSH_1200.m3u8
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",東森戲劇
+http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=http://218.32.87.201:5021/live/425
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",東森洋片
+http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=http://218.32.87.201:5021/live/343
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",三立台湾HD
 http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",三立都会HD
 http://bcoveliveios-i.akamaihd.net/hls/live/241983/4338955585001_1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",MTV音樂
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",MTV音樂
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",亞洲音樂
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVESv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=&Fs1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",民視影劇
 http://520574.xyz/dl/gt.php?id=ftvdrama
 #EXTINF:-1 tvg-id="7145" tvg-name="民視綜藝臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="綜藝娛樂",民視綜藝
@@ -56,7 +56,6 @@ http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="綜藝娛樂",TVBS HD
 http://153.99.180.70:5021/live/349/playlist.m3u8
-
 #EXTINF:-1 tvg-id="7134" tvg-name="民視臺灣臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="綜藝娛樂",民視臺灣
 http://520574.xyz/dl/gt.php?id=fttv
 #EXTINF:-1 tvg-id="7133" tvg-name="民視第一臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="綜藝娛樂",民視第一
@@ -75,6 +74,12 @@ http://153.99.180.70:5021/live/103/playlist.m3u8
 http://520574.xyz/dl/gt.php?id=ftvtravel
 #EXTINF:-1 tvg-id="6172" tvg-name="亞洲旅遊臺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="綜藝娛樂",亞洲旅遊
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",MTV音樂
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",MTV音樂
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",亞洲音樂
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVESv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=&Fs1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱电竞
 http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
