@@ -33,6 +33,10 @@ http://125.210.152.18:9090/live/QSDW_1200.m3u8
 #EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="自然科学",求索生活
 http://125.210.152.18:9090/live/QSSH_1200.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",三立台湾HD
+http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",三立都会HD
+http://bcoveliveios-i.akamaihd.net/hls/live/241983/4338955585001_1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",MTV音樂
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="綜藝娛樂",MTV音樂
