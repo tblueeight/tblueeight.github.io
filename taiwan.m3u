@@ -7,16 +7,8 @@ rtmp://161.202.204.248:1935/sat/tv071
 rtmp://59.124.75.153/sat/tv071
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png" group-title="港澳台",中视
 rtmp://161.202.204.248/sat/tv091
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png" group-title="未分类",中视-1
-rtmp://161.202.204.248:1935/sat/tv091
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png" group-title="未分类",中视-2
-rtmp://59.124.75.153/sat/tv091
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="港澳台",华视
 rtmp://161.202.204.248:1935/sat/tv111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="未分类",华视-1
-rtmp://161.202.204.248/sat/tv112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="未分类",华视-2
-rtmp://59.124.75.153/sat/tv111
 #EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="https://img.isuper.tv/live-tv/pts-hd-live.jpg" group-title="港澳台",公视
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/PTS.m3u8
 #EXTINF:-1 tvg-id="6145" tvg-name="台视综合台" tvg-logo="https://img.meituan.net/csc/8d97d0aa63b7f2da51213e534907e37d27685.jpg" group-title="港澳台",台视综合
